@@ -46,8 +46,8 @@ const AddUser = ({ onAddUser }) => {
   };
 
   const errorHandler = () => {
-    setError(null)
-  }
+    setError(null);
+  };
 
   return (
     <div>
